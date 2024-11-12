@@ -1,0 +1,100 @@
+2024-11-12 16:00:48.383289
+ get_article_info
+ ('https://habr.com/ru/companies/garage8/articles/857900/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:49.008075
+ get_article_info
+ ('https://habr.com/ru/articles/857886/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:49.435466
+ get_article_info
+ ('https://habr.com/ru/companies/selectel/articles/812889/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 10:13:13> Ц < вантовые вычислени€: основные идеи и состо€ние квантовых технологий> Ц <https://habr.com/ru/companies/selectel/articles/812889/>
+
+2024-11-12 16:00:49.919211
+ get_article_info
+ ('https://habr.com/ru/companies/mkb/articles/853360/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 10:10:03> Ц < ак мы в ћ Ѕ обновл€ли Zabbix с 4.4 до 6.0 Ч проблемы и подводные камни> Ц <https://habr.com/ru/companies/mkb/articles/853360/>
+
+2024-11-12 16:00:50.366345
+ get_article_info
+ ('https://habr.com/ru/companies/croc/articles/857700/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 10:02:19> Ц <Read IT Club: как мы повышаем качество русско€зычной »“-литературы> Ц <https://habr.com/ru/companies/croc/articles/857700/>
+
+2024-11-12 16:00:50.814255
+ get_article_info
+ ('https://habr.com/ru/articles/857882/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 10:01:24> Ц <—инхронизаци€ звука и видео. ¬згл€д дилетанта> Ц <https://habr.com/ru/articles/857882/>
+
+2024-11-12 16:00:51.294151
+ get_article_info
+ ('https://habr.com/ru/articles/857424/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:51.756241
+ get_article_info
+ ('https://habr.com/ru/companies/rshb/articles/857878/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:52.199869
+ get_article_info
+ ('https://habr.com/ru/articles/857876/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:52.626223
+ get_article_info
+ ('https://habr.com/ru/articles/857874/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:53.047344
+ get_article_info
+ ('https://habr.com/ru/companies/yadro/articles/857588/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 09:15:00> Ц <Serviceability в действии: реальные примеры разработки и улучшени€ процедур обслуживани€ IT-оборудовани€> Ц <https://habr.com/ru/companies/yadro/articles/857588/>
+
+2024-11-12 16:00:53.486086
+ get_article_info
+ ('https://habr.com/ru/companies/pt/articles/857760/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:53.925700
+ get_article_info
+ ('https://habr.com/ru/companies/serverflow/articles/857848/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 09:09:42> Ц <ќда любви к nvtop Ч консольный мониторинг GPU, который мы заслужили> Ц <https://habr.com/ru/companies/serverflow/articles/857848/>
+
+2024-11-12 16:00:54.364414
+ get_article_info
+ ('https://habr.com/ru/companies/oleg-bunin/articles/857612/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:54.887496
+ get_article_info
+ ('https://habr.com/ru/companies/T1Holding/articles/856818/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
+2024-11-12 16:00:55.352034
+ get_article_info
+ ('https://habr.com/ru/companies/ruvds/articles/857514/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 09:01:03> Ц <–убрика: VPS на пределе возможностей. LLM на CPU с 12Gb RAM> Ц <https://habr.com/ru/companies/ruvds/articles/857514/>
+
+2024-11-12 16:00:55.825187
+ get_article_info
+ ('https://habr.com/ru/companies/searchinform/articles/857852/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 08:59:09> Ц <Ђƒумаю, как можно слить и не спалитьс€ї: »Ѕ-аналитик о том, как научитьс€ видеть инцидент> Ц <https://habr.com/ru/companies/searchinform/articles/857852/>
+
+2024-11-12 16:00:56.278804
+ get_article_info
+ ('https://habr.com/ru/companies/otus/articles/857094/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 08:49:46> Ц <Ќе бойтесь потоков в Python, они не кусаютс€> Ц <https://habr.com/ru/companies/otus/articles/857094/>
+
+2024-11-12 16:00:56.704799
+ get_article_info
+ ('https://habr.com/ru/companies/gazprombank/articles/833850/', ['дизайн', 'фото', 'web', 'python']),  {}
+<2024-11-12 08:47:44> Ц <Ќе только нейроимпланты: как нейротехнологии мен€ют медицину> Ц <https://habr.com/ru/companies/gazprombank/articles/833850/>
+
+2024-11-12 16:00:57.146643
+ get_article_info
+ ('https://habr.com/ru/companies/pvs-studio/articles/857860/', ['дизайн', 'фото', 'web', 'python']),  {}
+None
+
